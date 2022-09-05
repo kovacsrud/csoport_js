@@ -1,2 +1,2 @@
-# csoport_js
+# Javascript csoportmunka
 Csoportmunka példa
